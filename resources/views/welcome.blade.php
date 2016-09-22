@@ -57,16 +57,6 @@
                   <li><a href="/services">Services</a></li>
                   <li><a href="/idea">Submit Ideas</a></li>
                   <li><a href="/contact">Contact Us</a></li>
-                  <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="#">Action</a></li>
-                      <li><a href="#">Another action</a></li>
-                      <li role="separator" class="divider"></li>
-                      <li class="dropdown-header">Nav header</li>
-                      <li><a href="#">One more separated link</a></li>
-                    </ul>
-                  </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                   <li><a href="http://getbootstrap.com/examples/navbar/">Join Free</a></li>
@@ -99,7 +89,7 @@
        </div>
         <div class="col-lg-4">
           <h2>Who we are</h2>
-          <p>We are indonesian team that have developed number of applications with international class standard. There are couple of programming languages we did like ruby, php, java, etc. We have strong vision to make collaboration better and fair between developer and investor for long life cycle. Collaboration to run bussines together without hassle.</p>
+          <p>Founded by aris setyawan (Ruby on Rails Developer) with more than 5 years experience working as fullstack developer. We are indonesian team that have developed number of applications with international class standard. There are couple of programming languages we did like ruby, php, java, etc. We have strong vision to make collaboration better and fair between developer and investor for long life cycle. Collaboration to run bussines together without hassle.</p>
           <p><a class="btn btn-primary" href="#" role="button">View details »</a></p>
         </div>
       </div>
