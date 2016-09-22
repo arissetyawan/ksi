@@ -57,7 +57,7 @@
                 <ul class="nav navbar-nav">
                   <li class="active"><a href="#">Projects</a></li>
                   <li><a href="/services">Services</a></li>
-                  <li><a href="/explore">Explore Ideas</a></li>
+                  <li><a href="/explore">Submit Ideas</a></li>
                   <li><a href="/contact">Contact Us</a></li>
                   <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
@@ -89,7 +89,7 @@
         <li class="active" data-target="#myCarousel" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
-        <div class="item">
+        <div class="item active">
           <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
@@ -109,7 +109,7 @@
             </div>
           </div>
         </div>
-        <div class="item active">
+        <div class="item">
           <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
@@ -119,6 +119,18 @@
             </div>
           </div>
         </div>
+
+        <div class="item">
+          <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Code Generator</h1>
+              <p>Imagine that customer can generate their own code to multiple language with filling required form to "interview" they need. Then, they can choose what language; php, ruby, java, and even android and iphone, customize it (by go35 team if required), pay and download.</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Explore</a></p>
+            </div>
+          </div>
+        </div>
+
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

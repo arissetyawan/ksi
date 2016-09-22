@@ -55,7 +55,7 @@
                 <ul class="nav navbar-nav">
                   <li><a href="/projects">Projects</a></li>
                   <li><a href="/services">Services</a></li>
-                  <li><a href="/explore">Explore Ideas</a></li>
+                  <li><a href="/idea">Submit Ideas</a></li>
                   <li><a href="/contact">Contact Us</a></li>
                   <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
@@ -81,7 +81,7 @@
       <!-- Jumbotron -->
       <div class="jumbotron">
         <h1> Developer + Idea + Investor = $</h1>
-        <p class="lead"><i>"It's a nature that no body is perfect but collaboration make it perfect."</i></p>
+        <p class="lead"><i>"It's a nature that no body is perfect but collaboration make it perfect.s"</i></p>
         <p><a class="btn btn-lg btn-success" href="#" role="button">Join forever free</a></p>
       </div>
 
