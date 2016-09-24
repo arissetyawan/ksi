@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
-    <title>go35 (go-es) Kickstarter Indonesia</title>
+    <title>Kickstarter Indonesia</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/bootstrap-3.3.7/css/bootstrap.css" rel="stylesheet">

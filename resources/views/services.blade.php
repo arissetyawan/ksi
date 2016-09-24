@@ -26,6 +26,11 @@
     </p>
   </div>
   <div class="col-lg-4">
+    <h2>Any idea?</h2>
+    <p><a class="btn btn-warning" href="/idea" role="button">Submit idea</a>
+    </p>
+  </div>
+  <div class="col-lg-4">
     <h2>Social Care</h2>
     <p>We believe that everyone is unique, an brilliant idea can make better life together by realized it smoothly. We care with general acceptable social values because we believe keeping good values will differ us between human vs another creature in this worlds. We are human, lets life as human.</p>
     <p><a class="btn btn-warning" href="#" role="button">More</a>
@@ -34,8 +39,14 @@
     </p>
   </div>
   <div class="col-lg-4">
-    <h2>Any idea?</h2>
-    <p><a class="btn btn-warning" href="/idea" role="button">Submit idea</a>
+    <h2>What we learn</h2>
+    <p>Programming language and frameworks: Ruby on rails (ruby), Playframework (java), Ionic (hybrid development for web, android and iOs), Laravel, VB.Net, and many more will come :)</p>
+    <p>Database: mongodb, mysql</p>
+    <p>Repository Tools: github, bitbucket</p>
+    <p>Operating system: Linux, and windows</p>
+    <p><a class="btn btn-warning" href="#" role="button">More</a>
+    <a class="btn btn-success" href="#" role="button">Comment</a>
+    <a class="btn btn-primary" href="#" role="button">Share</a>
     </p>
   </div>
 </div>
