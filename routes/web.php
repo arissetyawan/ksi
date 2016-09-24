@@ -34,3 +34,9 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/redirect', 'SocialAuthController@redirect');
+Route::get('/callback', 'SocialAuthController@callback');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index');
