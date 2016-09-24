@@ -345,6 +345,7 @@ class ComposerStaticInit5803ce8fb3da8de93682a1310f4d9259
         'App\\Providers\\EventServiceProvider' => __DIR__ . '/../..' . '/app/Providers/EventServiceProvider.php',
         'App\\Providers\\RouteServiceProvider' => __DIR__ . '/../..' . '/app/Providers/RouteServiceProvider.php',
         'App\\SocialAccount' => __DIR__ . '/../..' . '/app/SocialAccount.php',
+        'App\\SocialAccountService' => __DIR__ . '/../..' . '/app/SocialAccountService.php',
         'App\\User' => __DIR__ . '/../..' . '/app/User.php',
         'Carbon\\Carbon' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/Carbon.php',
         'Carbon\\CarbonInterval' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/CarbonInterval.php',
