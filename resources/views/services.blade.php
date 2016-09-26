@@ -4,7 +4,7 @@
 <!-- Jumbotron -->
 <div class="jumbotron">
   <h1> Our services </h1>
-  <p class="lead"><i>Founded in 2016 by Aris Setyawan, experienced ruby on rails engineer that already worked with international clients around the world from japan, america, united kingdom, australia, etc developed many kind of application with scalable technology. We believe that information technology will have significan social effect to bring life better. Check some our portfolios <a href='/portfolios'>here</a></i></p>
+  <p class="lead"><i>Founded in 2016 by Aris Setyawan, experienced ruby on rails engineer that already worked with international clients around the world from japan, america, united kingdom, australia, etc developed many kind of application with scalable technology. We believe that information technology will have significan social impact to bring life better. Check some our portfolios <a href='/portfolios'>here</a></i></p>
 </div>
 
 <!-- Example row of columns -->

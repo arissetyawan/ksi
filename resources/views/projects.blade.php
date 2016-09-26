@@ -25,14 +25,24 @@
       <img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Fastbook.</h1>
-          <p>In some countries, internet speed is matter. We need to develop text based booking service that can response faster and support SMS (Short Messanger Service) communiction.</p>
+          <h1>ApiGO</h1>
+          <p>Free apps to help developer design and generate end point in sandbox environment. It has various feauture like creating team with its role to access, share social, trying the api and download into pdf version and many more !</p>
           <p><a class="btn btn-lg btn-primary" href="#" role="button">Explore</a></p>
         </div>
       </div>
     </div>
     <div class="item">
-      <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+      <img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>UMKM-GO</h1>
+          <p>In some countries, internet speed is matter. We need to develop text based UMKM app that can response aster and support SMS (Short Messanger Service) communication. We need an app that support switching online or offline mode.</p>
+          <p><a class="btn btn-lg btn-primary" href="#" role="button">Explore</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img class="fourth-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
       <div class="container">
         <div class="carousel-caption">
           <h1>SMS Gateway</h1>
@@ -43,7 +53,7 @@
     </div>
 
     <div class="item">
-      <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+      <img class="fifth-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
       <div class="container">
         <div class="carousel-caption">
           <h1>Code Generator</h1>

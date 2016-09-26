@@ -60,12 +60,14 @@
                                 <button type="submit" class="btn btn-primary">
                                     Login
                                 </button>
-
+                                <a href="redirect" class="btn btn-primary">Google Login</a>
+                                <a href="redirect" class="btn btn-primary">FB Login</a>
+                                <a href="redirect" class="btn btn-primary">Twiter Login</a>
+<hr />
                                 <a class="btn btn-link" href="{{ url('/password/reset') }}">
                                     Forgot Your Password?
                                 </a>
                                 
-                                <a href="redirect" class="facebook-login">FB Login</a>
                             </div>
                         </div>
                     </form>
